@@ -5,7 +5,6 @@
 ## INSTALASI GIT
 Membuka website resmi GIT yaitu (git-scm.com), lalu mendownload sesuai OS 
 
-
 ## MEMBUKA GIT BASH
 Setelah mendownload lalu membuka GIT BASH
 
@@ -51,8 +50,10 @@ git commit -m "simpan1"
 
 ## MEMBUAT REPOSITORY SERVER
 Server repository yang akan digunakan adalah
+https://github.com/ernarahayu/Latihan-2.git
 
-https://github.com
 
 Kalian harus membuat akun terlebih dahulu.
 Pada laman github, klik tombol start a project, atau dari menu (icon +) klik New Repository
+
+## Gambar ada di Folder screenshot
